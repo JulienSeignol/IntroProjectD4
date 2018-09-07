@@ -1,0 +1,18 @@
+header{
+  border-top: 4px dashed rgba(85, 70, 50,);
+  font-size: 2em;
+  text-align: center;
+}
+
+body{
+  background: #000000;
+  color: white;
+  font-family: helvetica;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
